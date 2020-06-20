@@ -3,7 +3,7 @@ import os
 
 class TslOrderedMapConan(ConanFile):
     name = "tsl-ordered-map"
-    version = "0.8.1"
+    version = "1.0.0"
     license = "MIT"
     description = "C++ hash map and hash set which preserve the order of insertion."
     homepage = "https://github.com/Tessil/ordered-map"
